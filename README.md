@@ -18,3 +18,5 @@
 ### 找到我
 
 Telegram 频道 [@LimitedTimeApps](https://t.me/LimitedTimeApps) — 每天分享 iOS 限免应用。
+
+Telegram 讨论群 [@AppRavenXX](https://t.me/AppRavenXX)。
