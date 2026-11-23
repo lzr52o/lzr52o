@@ -16,7 +16,7 @@ iOS proxy araçları ve otomasyon komut dosyalarıyla uğraşıyorum.
 [![Hits](https://hits.sh/github.com/lzr52o.svg?label=Visitor%20Count)](https://hits.sh/github.com/lzr52o.svg/)
 
 
-![lzr52o's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzr52o&show_icons=true&count_private=true&theme=vue)  
+![lzr52o's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzr52o&show_icons=true&count_private=true&theme=vue&custom_title=Lucky%27s%20GitHub%20Stats)  
 <p align="left">
   <img src="https://m3-markdown-badges.vercel.app/stars/8/2/lzr52o/lzr52o" height="22">
 </p>
