@@ -13,7 +13,7 @@ iOS のプロキシツールや自動化スクリプトをいじっています�
 ### リポジトリ
 
 - [Surge](https://github.com/lzr52o/Surge) — Surge モジュール 306 個のコレクション
-- [Collections](https://github.com/lzr52o/Collections) — スクリプトと設定のコレクション
+- [QuantumultX](https://github.com/lzr52o/QuantumultX) — スクリプトと設定のコレクション
 - [ConfigIconLibrary](https://github.com/lzr52o/ConfigIconLibrary) — プロファイルアイコン 19 セットのサブスクリプション
 - [Scripting-Scripts](https://github.com/lzr52o/Scripting-Scripts) — Scripting App スクリプト集（37 個）
 

@@ -13,7 +13,7 @@ iOS 프록시 도구와 자동화 스크립트를 만지작거리고 있습니�
 ### 저장소
 
 - [Surge](https://github.com/lzr52o/Surge) — Surge 모듈 306개 모음
-- [Collections](https://github.com/lzr52o/Collections) — 스크립트 및 설정 모음
+- [QuantumultX](https://github.com/lzr52o/QuantumultX) — 스크립트 및 설정 모음
 - [ConfigIconLibrary](https://github.com/lzr52o/ConfigIconLibrary) — 프로필 아이콘 19종 구독
 - [Scripting-Scripts](https://github.com/lzr52o/Scripting-Scripts) — Scripting App 스크립트 모음(37개)
 

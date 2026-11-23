@@ -13,7 +13,7 @@ I tinker with iOS proxy tools and automation scripts.
 ### My Repositories
 
 - [Surge](https://github.com/lzr52o/Surge) — A collection of 306 Surge modules
-- [Collections](https://github.com/lzr52o/Collections) — Script and configuration collection
+- [QuantumultX](https://github.com/lzr52o/QuantumultX) — Script and configuration collection
 - [ConfigIconLibrary](https://github.com/lzr52o/ConfigIconLibrary) — 19 sets of profile icons (subscription)
 - [Scripting-Scripts](https://github.com/lzr52o/Scripting-Scripts) — Scripting App script collection (37 scripts)
 

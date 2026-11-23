@@ -13,7 +13,7 @@ iOS proxy araçları ve otomasyon komut dosyalarıyla uğraşıyorum.
 ### Depolarım
 
 - [Surge](https://github.com/lzr52o/Surge) — 306 Surge modülü koleksiyonu
-- [Collections](https://github.com/lzr52o/Collections) — Komut dosyası ve yapılandırma koleksiyonu
+- [QuantumultX](https://github.com/lzr52o/QuantumultX) — Komut dosyası ve yapılandırma koleksiyonu
 - [ConfigIconLibrary](https://github.com/lzr52o/ConfigIconLibrary) — 19 profil simgesi seti aboneliği
 - [Scripting-Scripts](https://github.com/lzr52o/Scripting-Scripts) — Scripting App komut dosyası koleksiyonu (37 komut dosyası)
 
