@@ -22,3 +22,5 @@ iOS proxy araçları ve otomasyon komut dosyalarıyla uğraşıyorum, ayrıca Am
 Telegram kanalı [@LimitedTimeApps](https://t.me/LimitedTimeApps) — Her gün iOS sınırlı süreli ücretsiz uygulamalar paylaşıyorum.
 
 Telegram tartışma grubu [@AppRavenXX](https://t.me/AppRavenXX).
+
+Telegram botu [@ccccccccoBot](https://t.me/ccccccccoBot) — İş birliği ve tanıtım için.

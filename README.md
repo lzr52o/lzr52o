@@ -22,3 +22,5 @@
 Telegram 频道 [@LimitedTimeApps](https://t.me/LimitedTimeApps) — 每天分享 iOS 限免应用。
 
 Telegram 讨论群 [@AppRavenXX](https://t.me/AppRavenXX)。
+
+Telegram 私聊机器人 [@ccccccccoBot](https://t.me/ccccccccoBot) — 合作与推广。

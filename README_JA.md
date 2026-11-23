@@ -22,3 +22,5 @@ iOS のプロキシツールや自動化スクリプトをいじっています�
 Telegram チャンネル [@LimitedTimeApps](https://t.me/LimitedTimeApps) — iOS 期間限定無料アプリを毎日紹介しています。
 
 Telegram ディスカッショングループ [@AppRavenXX](https://t.me/AppRavenXX)。
+
+Telegram ボット [@ccccccccoBot](https://t.me/ccccccccoBot) — コラボ・宣伝に関するお問い合わせ。

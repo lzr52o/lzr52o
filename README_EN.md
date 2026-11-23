@@ -22,3 +22,5 @@ I tinker with iOS proxy tools and automation scripts, and I also sell on Amazon.
 Telegram channel [@LimitedTimeApps](https://t.me/LimitedTimeApps) — Daily iOS limited-free apps.
 
 Telegram discussion group [@AppRavenXX](https://t.me/AppRavenXX).
+
+Telegram bot [@ccccccccoBot](https://t.me/ccccccccoBot) — For collaboration and promotion inquiries.

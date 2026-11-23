@@ -22,3 +22,5 @@ iOS 프록시 도구와 자동화 스크립트를 만지작거리고, Amazon에�
 Telegram 채널 [@LimitedTimeApps](https://t.me/LimitedTimeApps) — 매일 iOS 한정 무료 앱을 공유합니다.
 
 Telegram 토론 그룹 [@AppRavenXX](https://t.me/AppRavenXX).
+
+Telegram 봇 [@ccccccccoBot](https://t.me/ccccccccoBot) — 협업 및 홍보 문의.
