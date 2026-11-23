@@ -13,6 +13,7 @@
 - [Surge](https://github.com/lzr52o/Surge) — 306 个 Surge 模块合集
 - [Collections](https://github.com/lzr52o/Collections) — 脚本与配置收藏
 - [ConfigIconLibrary](https://github.com/lzr52o/ConfigIconLibrary) — 19 套配置文件图标订阅
+- [Scripting-Scripts](https://github.com/lzr52o/Scripting-Scripts) — Scripting App 脚本合集（37 个脚本）
 
 ### 找到我
 
