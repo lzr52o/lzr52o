@@ -10,6 +10,29 @@
 - 喜欢把重复的事交给脚本和机器人自动跑
 - 设备：iPhone 16 Pro Max · Mac mini M4
 
+### 使用我的仓库
+
+这里的仓库都是拿来直接用的，不用一个个去翻代码：
+
+- **Surge**：306 个 Surge 模块的合集。点进仓库找到要用的模块，复制模块链接，在 Surge 里添加订阅就能用。
+- **QuantumultX**：Quantumult X 用的配置和脚本。点进仓库复制订阅链接，在 Quantumult X 里添加订阅。
+- **ConfigIconLibrary**：19 套配置文件图标。复制图标订阅链接，粘贴到代理软件的图标设置里。
+- **Scripting-Scripts**：Scripting App 的脚本合集，共 37 个脚本。点进仓库找到要用的脚本，按脚本里的说明装到 Scripting App 里。
+- **forward-widgets**：转发小组件合集。点进仓库按里面的说明安装使用。
+- **Glados-Railgun-checkin**：GLaDOS 自动签到。按仓库里的说明配好账号，每天自动签到。
+
+**怎么用（通用步骤）**
+
+1. 点进上面对应的仓库。
+2. 按仓库 README 里的说明，复制订阅链接或按步骤配置。
+3. 回到对应的 App 里粘贴或保存，等它生效。
+
+**常见问题**
+
+- 订阅加不上？先检查链接有没有复制全，再看网络能不能打开 GitHub。
+- 不知道用哪个库？只用 Surge 就去 Surge，只用 Quantumult X 就去 QuantumultX，图标去 ConfigIconLibrary，脚本去 Scripting-Scripts。
+- 有问题怎么找我？去下面的「找到我」，Telegram 频道或私聊机器人都可以。
+
 ### 我的仓库
 
 - [Surge](https://github.com/lzr52o/Surge) — 306 个 Surge 模块合集

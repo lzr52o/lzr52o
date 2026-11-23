@@ -10,6 +10,29 @@ iOS 프록시 도구와 자동화 스크립트를 만지작거리고 있습니�
 - 반복적인 일은 스크립트와 봇이 자동으로 처리하게 하는 것을 좋아합니다
 - 기기: iPhone 16 Pro Max · Mac mini M4
 
+### 저장소 사용 방법
+
+여기에 있는 것은 코드를 뒤질 필요 없이 바로 쓸 수 있습니다:
+
+- **Surge**: Surge 모듈 306개 모음. 저장소를 열고 원하는 모듈을 찾아 링크를 복사한 뒤 Surge에 구독으로 추가하면 됩니다.
+- **QuantumultX**: Quantumult X용 설정과 스크립트. 저장소를 열고 구독 링크를 복사해 Quantumult X에 추가합니다.
+- **ConfigIconLibrary**: 프로필 아이콘 19종. 아이콘 구독 링크를 복사해 프록시 앱의 아이콘 설정에 붙여넣습니다.
+- **Scripting-Scripts**: Scripting App용 스크립트 모음, 총 37개. 저장소를 열고 원하는 스크립트를 찾아 스크립트 안의 설명에 따라 Scripting App에 설치합니다.
+- **forward-widgets**: 전달 위젯 모음. 저장소를 열고 안의 설명에 따라 설치해서 사용합니다.
+- **Glados-Railgun-checkin**: GLaDOS 자동 출석 체크. 저장소의 설명에 따라 계정을 설정하면 매일 자동으로 출석 체크를 합니다.
+
+**사용 방법(공통 단계)**
+
+1. 위 목록에서 필요한 저장소를 엽니다.
+2. 해당 저장소의 README 설명에 따라 구독 링크를 복사하거나 단계대로 설정합니다.
+3. 해당 앱으로 돌아가 붙여넣거나 저장한 뒤 적용될 때까지 기다립니다.
+
+**자주 묻는 질문**
+
+- 구독이 추가되지 않나요? 먼저 링크를 끝까지 복사했는지 확인하고, 네트워크에서 GitHub에 접속할 수 있는지 확인하세요.
+- 어떤 저장소를 써야 할지 모르겠나요? Surge만 쓰면 Surge, Quantumult X만 쓰면 QuantumultX, 아이콘은 ConfigIconLibrary, 스크립트는 Scripting-Scripts입니다.
+- 질문이 있나요? 아래 「연락처」를 참고해 Telegram 채널이나 봇으로 연락해 주세요.
+
 ### 저장소
 
 - [Surge](https://github.com/lzr52o/Surge) — Surge 모듈 306개 모음
