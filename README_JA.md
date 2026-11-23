@@ -69,3 +69,13 @@ Telegram ボット [@ccccccccoBot](https://t.me/ccccccccoBot) — コラボ・�
 <img src="https://api.star-history.com/svg?repos=lzr52o/lzr52o&type=Date" alt="Star History Chart" width="600" height="356" align="center">
 
 ### [トップに戻る](https://github.com/lzr52o/lzr52o?tab=readme-ov-file#readme)
+
+---
+
+## 🙏 謝辞
+
+本リポジトリは本人がまとめたものです。すべての原作者のご尽力に感謝します。
+
+## ⚠️ 免責事項
+
+本リポジトリは個人の学習用です。すべてのスクリプトとモジュールの著作権は原作者に帰属します。転載、ミラー、再配布、商用は禁止です。原作者の情報を削除しないでください。侵害がある場合は連絡いただければ削除します。

@@ -69,3 +69,13 @@ Telegram botu [@ccccccccoBot](https://t.me/ccccccccoBot) — İş birliği ve ta
 <img src="https://api.star-history.com/svg?repos=lzr52o/lzr52o&type=Date" alt="Star History Chart" width="600" height="356" align="center">
 
 ### [Yukarı dön](https://github.com/lzr52o/lzr52o?tab=readme-ov-file#readme)
+
+---
+
+## 🙏 Teşekkürler
+
+Bu depo tarafımdan derlenmiştir. Tüm orijinal yazarlara emekleri için teşekkürler.
+
+## ⚠️ Sorumluluk Reddi
+
+Bu depo yalnızca kişisel öğrenim içindir. Tüm komut dosyalarının ve modüllerin telif hakkı orijinal yazarlara aittir. Yeniden yayınlama, yansıtma, yeniden dağıtım ve ticari kullanım yasaktır. Orijinal yazar bilgilerini kaldırmayın. Herhangi bir ihlal varsa bizimle iletişime geçin, kaldıralım.

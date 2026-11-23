@@ -69,3 +69,13 @@ Telegram 私聊机器人 [@ccccccccoBot](https://t.me/ccccccccoBot) — 合作�
 <img src="https://api.star-history.com/svg?repos=lzr52o/lzr52o&type=Date" alt="Star History Chart" width="600" height="356" align="center">
 
 ### [回到顶部](https://github.com/lzr52o/lzr52o?tab=readme-ov-file#readme)
+
+---
+
+## 🙏 致谢
+
+本库内容由本人整理，感谢所有原作者的辛苦付出。
+
+## ⚠️ 免责声明
+
+本库仅供个人学习交流使用，所有脚本与模块的版权归原作者所有；禁止转载、搬运、镜像、二次分发与商用；禁止去除原作者信息；如有侵权请联系删除。

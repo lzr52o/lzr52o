@@ -69,3 +69,13 @@ Telegram 봇 [@ccccccccoBot](https://t.me/ccccccccoBot) — 협업 및 홍보 �
 <img src="https://api.star-history.com/svg?repos=lzr52o/lzr52o&type=Date" alt="Star History Chart" width="600" height="356" align="center">
 
 ### [맨 위로 돌아가기](https://github.com/lzr52o/lzr52o?tab=readme-ov-file#readme)
+
+---
+
+## 🙏 감사
+
+이 저장소는 본인이 정리한 것입니다. 모든 원작자의 수고에 감사드립니다.
+
+## ⚠️ 면책 조항
+
+이 저장소는 개인 학습용입니다. 모든 스크립트와 모듈의 저작권은 원작자에게 있습니다. 전재, 미러링, 재배포, 상업적 이용을 금지합니다. 원작자 정보를 삭제하지 마세요. 침해가 있으면 연락 주시면 삭제하겠습니다.
