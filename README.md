@@ -1,8 +1,25 @@
 [English](README_EN.md) · 简体中文 · [日本語](README_JA.md) · [한국어](README_KO.md) · [Türkçe](README_TR.md)
 
+[![Stars](https://img.shields.io/github/stars/lzr52o/lzr52o)](https://github.com/lzr52o/lzr52o/stargazers)
+[![Fork](https://img.shields.io/github/forks/lzr52o/lzr52o)](https://github.com/lzr52o/lzr52o/network/members)
+[![Commit](https://img.shields.io/github/commit-activity/m/lzr52o/lzr52o?label=Commits)](https://github.com/lzr52o/lzr52o/commits/master)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/LimitedTimeApps)
+[![Issues](https://img.shields.io/github/issues/lzr52o/lzr52o)](https://github.com/lzr52o/lzr52o/issues)
+[![](https://img.shields.io/github/last-commit/lzr52o/lzr52o)](https://github.com/lzr52o)
+[![](https://img.shields.io/github/followers/lzr52o?label=follow&style=social)](https://github.com/lzr52o)
+
 ## 你好，我是 lzr52o 👋
 
 折腾 iOS 代理工具与自动化脚本。
+
+![Since](https://img.shields.io/badge/Since-2017年10月27日-blue)
+[![Hits](https://hits.sh/github.com/lzr52o.svg?label=Visitor%20Count)](https://hits.sh/github.com/lzr52o.svg/)
+
+
+![lzr52o's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzr52o&show_icons=true&count_private=true&theme=vue)  
+<p align="left">
+  <img src="https://m3-markdown-badges.vercel.app/stars/8/2/lzr52o/lzr52o" height="22">
+</p>
 
 ### 关于我
 
@@ -47,3 +64,8 @@ Telegram 频道 [@LimitedTimeApps](https://t.me/LimitedTimeApps) — 每天分�
 Telegram 讨论群 [@AppRavenXX](https://t.me/AppRavenXX)。
 
 Telegram 私聊机器人 [@ccccccccoBot](https://t.me/ccccccccoBot) — 合作与推广。
+
+## Star 历史
+<img src="https://api.star-history.com/svg?repos=lzr52o/lzr52o&type=Date" alt="Star History Chart" width="600" height="356" align="center">
+
+### [回到顶部](https://github.com/lzr52o/lzr52o?tab=readme-ov-file#readme)

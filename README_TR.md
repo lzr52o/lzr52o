@@ -1,8 +1,25 @@
 [English](README_EN.md) · [简体中文](README.md) · [日本語](README_JA.md) · [한국어](README_KO.md) · Türkçe
 
+[![Stars](https://img.shields.io/github/stars/lzr52o/lzr52o)](https://github.com/lzr52o/lzr52o/stargazers)
+[![Fork](https://img.shields.io/github/forks/lzr52o/lzr52o)](https://github.com/lzr52o/lzr52o/network/members)
+[![Commit](https://img.shields.io/github/commit-activity/m/lzr52o/lzr52o?label=Commits)](https://github.com/lzr52o/lzr52o/commits/master)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/LimitedTimeApps)
+[![Issues](https://img.shields.io/github/issues/lzr52o/lzr52o)](https://github.com/lzr52o/lzr52o/issues)
+[![](https://img.shields.io/github/last-commit/lzr52o/lzr52o)](https://github.com/lzr52o)
+[![](https://img.shields.io/github/followers/lzr52o?label=follow&style=social)](https://github.com/lzr52o)
+
 ## Merhaba, ben lzr52o 👋
 
 iOS proxy araçları ve otomasyon komut dosyalarıyla uğraşıyorum.
+
+![Since](https://img.shields.io/badge/Since-2017年10月27日-blue)
+[![Hits](https://hits.sh/github.com/lzr52o.svg?label=Visitor%20Count)](https://hits.sh/github.com/lzr52o.svg/)
+
+
+![lzr52o's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzr52o&show_icons=true&count_private=true&theme=vue)  
+<p align="left">
+  <img src="https://m3-markdown-badges.vercel.app/stars/8/2/lzr52o/lzr52o" height="22">
+</p>
 
 ### Hakkımda
 
@@ -47,3 +64,8 @@ Telegram kanalı [@LimitedTimeApps](https://t.me/LimitedTimeApps) — Her gün i
 Telegram tartışma grubu [@AppRavenXX](https://t.me/AppRavenXX).
 
 Telegram botu [@ccccccccoBot](https://t.me/ccccccccoBot) — İş birliği ve tanıtım için.
+
+## Star Geçmişi
+<img src="https://api.star-history.com/svg?repos=lzr52o/lzr52o&type=Date" alt="Star History Chart" width="600" height="356" align="center">
+
+### [Yukarı dön](https://github.com/lzr52o/lzr52o?tab=readme-ov-file#readme)
