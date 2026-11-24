@@ -71,7 +71,7 @@ Telegram 私聊机器人 [@ccccccccoBot](https://t.me/ccccccccoBot) — 合作�
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">
 </picture>
 
-### [回到顶部](#readme)
+### [回到顶部](#你好我是-lzr52o-)
 
 ---
 

@@ -71,7 +71,7 @@ Telegram ボット [@ccccccccoBot](https://t.me/ccccccccoBot) — コラボ・�
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">
 </picture>
 
-### [トップに戻る](#readme)
+### [トップに戻る](#こんにちはlzr52o-です-)
 
 ---
 
