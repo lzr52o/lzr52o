@@ -65,8 +65,12 @@ Telegram discussion group [@AppRavenXX](https://t.me/AppRavenXX).
 
 Telegram bot [@ccccccccoBot](https://t.me/ccccccccoBot) — For collaboration and promotion inquiries.
 
-## Star History
-<img src="https://api.star-history.com/svg?repos=lzr52o/lzr52o&type=Date" alt="Star History Chart" width="600" height="356" align="center">
+## 🐍 Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">
+</picture>
 
 ### [Back to top](https://github.com/lzr52o/lzr52o?tab=readme-ov-file#readme)
 

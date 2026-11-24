@@ -65,8 +65,12 @@ Telegram ディスカッショングループ [@AppRavenXX](https://t.me/AppRave
 
 Telegram ボット [@ccccccccoBot](https://t.me/ccccccccoBot) — コラボ・宣伝に関するお問い合わせ。
 
-## スター履歴
-<img src="https://api.star-history.com/svg?repos=lzr52o/lzr52o&type=Date" alt="Star History Chart" width="600" height="356" align="center">
+## 🐍 スネーク
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">
+</picture>
 
 ### [トップに戻る](https://github.com/lzr52o/lzr52o?tab=readme-ov-file#readme)
 

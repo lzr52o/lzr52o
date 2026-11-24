@@ -65,8 +65,12 @@ Telegram 讨论群 [@AppRavenXX](https://t.me/AppRavenXX)。
 
 Telegram 私聊机器人 [@ccccccccoBot](https://t.me/ccccccccoBot) — 合作与推广。
 
-## Star 历史
-<img src="https://api.star-history.com/svg?repos=lzr52o/lzr52o&type=Date" alt="Star History Chart" width="600" height="356" align="center">
+## 🐍 贪吃蛇
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">
+</picture>
 
 ### [回到顶部](https://github.com/lzr52o/lzr52o?tab=readme-ov-file#readme)
 

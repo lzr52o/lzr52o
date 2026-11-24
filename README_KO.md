@@ -65,8 +65,12 @@ Telegram 토론 그룹 [@AppRavenXX](https://t.me/AppRavenXX).
 
 Telegram 봇 [@ccccccccoBot](https://t.me/ccccccccoBot) — 협업 및 홍보 문의.
 
-## 스타 기록
-<img src="https://api.star-history.com/svg?repos=lzr52o/lzr52o&type=Date" alt="Star History Chart" width="600" height="356" align="center">
+## 🐍 스네이크
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">
+</picture>
 
 ### [맨 위로 돌아가기](https://github.com/lzr52o/lzr52o?tab=readme-ov-file#readme)
 
