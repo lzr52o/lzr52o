@@ -65,7 +65,6 @@ Telegram 토론 그룹 [@AppRavenXX](https://t.me/AppRavenXX).
 
 Telegram 봇 [@ccccccccoBot](https://t.me/ccccccccoBot) — 협업 및 홍보 문의.
 
-## 🐍 스네이크
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">

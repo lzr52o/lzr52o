@@ -65,7 +65,6 @@ Telegram ディスカッショングループ [@AppRavenXX](https://t.me/AppRave
 
 Telegram ボット [@ccccccccoBot](https://t.me/ccccccccoBot) — コラボ・宣伝に関するお問い合わせ。
 
-## 🐍 スネーク
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">

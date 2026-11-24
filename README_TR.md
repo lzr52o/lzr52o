@@ -65,7 +65,6 @@ Telegram tartışma grubu [@AppRavenXX](https://t.me/AppRavenXX).
 
 Telegram botu [@ccccccccoBot](https://t.me/ccccccccoBot) — İş birliği ve tanıtım için.
 
-## 🐍 Yılan
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">

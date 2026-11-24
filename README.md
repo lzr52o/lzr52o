@@ -65,7 +65,6 @@ Telegram 讨论群 [@AppRavenXX](https://t.me/AppRavenXX)。
 
 Telegram 私聊机器人 [@ccccccccoBot](https://t.me/ccccccccoBot) — 合作与推广。
 
-## 🐍 贪吃蛇
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">

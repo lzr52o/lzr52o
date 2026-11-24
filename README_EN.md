@@ -65,7 +65,6 @@ Telegram discussion group [@AppRavenXX](https://t.me/AppRavenXX).
 
 Telegram bot [@ccccccccoBot](https://t.me/ccccccccoBot) — For collaboration and promotion inquiries.
 
-## 🐍 Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">
