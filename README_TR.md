@@ -81,4 +81,4 @@ Bu depo tarafımdan derlenmiştir. Tüm orijinal yazarlara emekleri için teşek
 
 ## ⚠️ Sorumluluk Reddi
 
-Bu depo yalnızca kişisel öğrenim içindir. Tüm komut dosyalarının ve modüllerin telif hakkı orijinal yazarlara aittir. Yeniden yayınlama, yansıtma, yeniden dağıtım ve ticari kullanım yasaktır. Orijinal yazar bilgilerini kaldırmayın. Herhangi bir ihlal varsa bizimle iletişime geçin, kaldıralım.
+Bu depo yalnızca kişisel öğrenim içindir. Tüm komut dosyalarının ve modüllerin telif hakkı orijinal yazarlara aittir. Yeniden yayınlama, yansıtma, yeniden dağıtım ve ticari kullanım yasaktır. Orijinal yazar bilgilerini kaldırmayın. Herhangi bir ihlal varsa Telegram botum [@ccccccccoBot](https://t.me/ccccccccoBot) ile iletişime geçin, kaldıralım.
