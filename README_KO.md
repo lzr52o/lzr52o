@@ -71,7 +71,7 @@ Telegram 봇 [@ccccccccoBot](https://t.me/ccccccccoBot) — 협업 및 홍보 �
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">
 </picture>
 
-### [맨 위로 돌아가기](https://github.com/lzr52o/lzr52o?tab=readme-ov-file#readme)
+### [맨 위로 돌아가기](#readme)
 
 ---
 

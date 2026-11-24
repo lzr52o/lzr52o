@@ -71,7 +71,7 @@ Telegram botu [@ccccccccoBot](https://t.me/ccccccccoBot) — İş birliği ve ta
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">
 </picture>
 
-### [Yukarı dön](https://github.com/lzr52o/lzr52o?tab=readme-ov-file#readme)
+### [Yukarı dön](#readme)
 
 ---
 
